@@ -33,3 +33,9 @@ Dev Shah
 
 # About
 Pilgrim Tale's is developed and maintained by [Tech_Titan]. Our mission is to inspire curiosity and foster learning through innovative technology solutions.
+
+# Working
+![WhatsApp Image 2024-03-03 at 12 23 29_3e307679](https://github.com/ved1121/Tech_Titans/assets/140297775/bf02ceec-d3ce-4dff-ac88-bc77d4984252)
+
+
+![WhatsApp Image 2024-03-03 at 12 24 02_9815a453](https://github.com/ved1121/Tech_Titans/assets/140297775/fe89ef16-b131-401a-ad79-ab1370afcf29)
