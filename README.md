@@ -1,5 +1,5 @@
 # Tech_Titans
-Project Name : Pilgrim Tale's
+Project Name : **Pilgrim Tale's**
 
 # Project Overview
 Pilgrim Tale's is an innovative project aimed at enriching children's curiosity about religious places by offering an Augmented Reality (AR) experience of the history and significant incidents associated with those places. Through the use of AR technology, users can scan a card or marker related to a particular religious site and immerse themselves in a 5 to 10-minute short animated clip, enhancing their learning experience.
